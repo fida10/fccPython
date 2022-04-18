@@ -1,0 +1,3 @@
+import toImport
+
+toImport.sampleFunctTwo()
